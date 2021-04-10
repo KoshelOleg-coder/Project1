@@ -3,11 +3,11 @@ header {
 }
 
 h1 {
-  color: green;
+  color: blue;
 }
 
 body {
-  background-color: blue;
+  background-color: gray;
   font-size: 20px;
 }
 
